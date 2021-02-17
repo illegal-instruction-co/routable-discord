@@ -1,0 +1,33 @@
+{
+  "name": "routable-discord",
+  "version": "1.0.0",
+  "description": "routable discord for making life is easier",
+  "main": "./routable-discord/index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illegal-instuction-co/routable-discord.git"
+  },
+  "keywords": [
+    "routable",
+    "discord",
+    "bot",
+    "discord.js",
+    "routes"
+  ],
+  "author": "illegal-instruction",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/illegal-instuction-co/routable-discord/issues"
+  },
+  "homepage": "https://github.com/illegal-instuction-co/routable-discord#readme"
+}
